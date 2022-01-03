@@ -18,7 +18,13 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+
 ```
 
+
+### SET UP API KEY The Movie Database in file Dotenv
+.env File
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
