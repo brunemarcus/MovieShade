@@ -1,5 +1,9 @@
 # Movies Shade
+
+## ☕ Descrição
 >
+Movies Shade é uma aplicação web básica que mostra os filmes mais populares do momento, está aplicação foi desenvolvida como parte do meu portfólio de modo que não tem nenhum interesse comercial ou financeiro. 
+
 ## 🚀 Instalação
 ```
 npm install
@@ -46,10 +50,6 @@ npm run lint
     </th>
   </tr>
 </table>
-  
-## ☕ Descrição
->
-Movies Shade é uma aplicação web básica que mostra os filmes mais populares do momento, está aplicação foi desenvolvida como parte do meu portfólio de modo que não tem nenhum interesse comercial ou financeiro. 
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
