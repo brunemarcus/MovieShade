@@ -1,5 +1,6 @@
-# moviesvue
-
+# Movies Shade
+>
+## 🚀 Instalação
 ## Project setup
 ```
 npm install
@@ -21,10 +22,12 @@ npm run lint
 
 ```
 
-
+## 💻 Pré-requisitos
+>
 ### SET UP API KEY The Movie Database in file Dotenv
-.env File
+
+Gere uma nova API KEY no The Movie Database e set no arquivo Dotenv.
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
 
